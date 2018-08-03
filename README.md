@@ -42,4 +42,4 @@ Baksonesia | 7,890,100 | 87 %
 Boboland | 107 | 100 %
 Bebek County | 999999| 12 %
 
-[![Random Video](https://i.ytimg.com/vi/NHZr6P1csiY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC_Nu3_rHawfSeJrzJD2pKblWdO5g)](https://www.youtube.com/watch?v=NHZr6P1csiY)`
+[![Random Video](https://i.ytimg.com/vi/NHZr6P1csiY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC_Nu3_rHawfSeJrzJD2pKblWdO5g)](https://www.youtube.com/watch?v=NHZr6P1csiY)
